@@ -2,38 +2,31 @@
 <html lang="en">
 
 <head>
-    
 <meta charset="UTF-8">
 <title>Мой первый сайт</title>
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
 </head>
     
 <body>
   
-    <header> <!--  Голова сайта -->
+    <header class="head"> <!--  Голова сайта -->
     
     <nav> <!--  Навигация по сайту -->
     
         <div class="logo">Андрей Браун</div> <!--  Блок с ЛОГО -->
         <div class="menu"> <!--  Блок Меню -->
-        
         <ul> <!--  Список меню -->
-        
-            <li>ОБО МНЕ</li>
+         	<li>ОБО МНЕ</li>
             <li>УСЛУГИ</li>
             <li>КЕЙСЫ</li>
             <li>ПРАЙС</li>
             <li>ОТЗЫВЫ</li>
             <li>КОНТАКТЫ</li>
-            
-        </ul>
-        
-        </div>
-        
+        </ul></div> 
     </nav>    
     </header>
 
-    
-    
     <div class="main">
             <div class="title__container1">
             <h1>Привет <br> Я Андрей Браун</h1> <!--  Заголовок -->
@@ -41,25 +34,39 @@
             <input type="submit" value="Обо мне"> <!--  кнопка -->
             <input type="submit" value="Мои работы"> <!--  кнопка --> 
             </div><!--  Блок с картинкой и заголовком -->
+		</div>
     
             <div class="title__contrainer2">
             <h3>ОБО МНЕ</h3>
-            <img class=""> <!-- Картинка -->
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante<br>facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
+			<img class="cherta" src="img/cherta.png" alt="черта">
+            <img class="paren2" src="img/paren2.png" alt="Парнишка"><!-- Картинка -->
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante <br>
+              facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante<br>facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
             <input type="submit" value="Скачать резюме">
+	
             </div>
         
-            <div class="title__contrainer2">
-                <img class=""> <!-- картинка на заднем плане -->
+            <div class="title__contrainer3">
+         
             <h3>ЧТО Я УМЕЮ</h3>
-                    <div class="computer"> <!-- Блок с картинкой компьютера -->
-                        <h4>Веб-дизайн</h4>
-                        <span>Lorem ipsum dolor sit amet placerat<br> facilisis felis mi in tempus eleifend<br> pellentesque natoque etiam. </span>
-                    </div>
-                    <div class="strelki"><!-- Блок со стрелками XD-->
-                        <h4>Разработка</h4>
-                        <span>Lorem ipsum dolor sit amet placerat<br> facilisis felis mi in tempus eleifend<br> pellentesque natoque etiam. </span>
+				<img src="img/cherta.png" alt="cherta2" class="cherta2">
+				
+                    <div class="item">
+						<img src="img/nout-icon.png" alt="comp">
+					    <img src="img/strelki-icon.png" alt="strelki-icon" class="strelki-icon">
+						<img src="img/raketa-icon.png" alt="raketa" class="raketa-icon">
+						<img src="img/gromofon-icon.png" alt="gromofon" class="gromofon-icon">
+						</div>
+				<div class="texts">
+                        <div class="computer-text">
+						<h4 class="veb-dizain">Веб-дизайн</h4>
+					
+                        <p class="">Lorem ipsum dolor sit amet placerat<br> facilisis felis mi in tempus eleifend<br> pellentesque natoque etiam. </p>
+						</div>
+                    <div class="strelki-text">    
+						<h4 class="razrabotka">Разработка</h4>
+                        <p>Lorem ipsum dolor sit amet placerat<br> facilisis felis mi in tempus eleifend<br> pellentesque natoque etiam. </p>
                     </div>
                     <div class="raketa"><!-- Блок с ракетой-->
                         <h4>CEO-Оптимизация</h4>
@@ -67,11 +74,13 @@
                     </div>
                     <div class="gromkogivoritel"><!-- Блок с громкоговорителем-->
                         <h4>Маркетинг</h4>
-                        <span>Lorem ipsum dolor sit amet placerat<br> facilisis felis mi in tempus eleifend<br> pellentesque natoque etiam. </span>
+                        <span>Lorem ipsum dolor sit amet placerat<br> 
+                        facilisis felis mi in tempus elerifend<br> pellentesque natoque etiam. </span>
                     </div>
-            </div>
+					</div>
+				</div>
             
-            <div class="title__contrainer3">
+            <div class="title__contrainer4">
                 <h3>КЕЙСЫ</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed Dapibus leo nec ornare diamcoccodo nibh ante facilisis.</p>
                 
@@ -101,7 +110,7 @@
 
             </div>
     
-            <div class="title__contrainer4">
+            <div class="title__contrainer5">
                 
                 <h2>Расчет стоимости</h2>
                 <div class="tip_sait">
@@ -140,7 +149,7 @@
 
             </div>
     
-            <div class="title__contrainer5">
+            <div class="title__contrainer6">
                 <h3>НЕМНОГО СТАТИСТИКИ</h3>
                 <div class="smailik">
                     <img src="" alt="">
@@ -163,7 +172,7 @@
                 </div>
             </div>
             
-        <div class="title__contrainer6">  
+        <div class="title__contrainer7">  
             <div class="otzivi">
                 <h2>ОТЗЫВЫ</h2>
                 <img src="" alt="">
@@ -176,7 +185,7 @@
             </div>
         </div>
 
-        <div class="title__contrainer6">
+        <div class="title__contrainer8">
             <h2>МОИ КОНТАКТЫ</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leo nec ornare diamcoccodo </p>
             <div class="strelka_mesto">
@@ -236,17 +245,13 @@
             </div>
         </div>
 
-        <div class="title__contrainer6">
+        <div class="title__contrainer9">
             <p>ТИПО КАРТА ТУТ)</p>
         </div>
+    <!--  Основной блок -->
     
-    </div><!--  Основной блок -->
-    
-    <footer>
-        <p>Copyright 2021 Андрей Браун. Desing by Web</p>
-    </footer>
-</body>
-
-
-
+    	<footer>
+       		<p>Copyright 2021 Андрей Браун. Desing by Web</p>
+    	</footer>
+	</body>
 </html>

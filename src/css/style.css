@@ -1,0 +1,300 @@
+body{
+	font-family: Arial, "sans-serif";
+}
+nav{
+	width: 100%;
+	headtg: 60px;
+	background: #1b3b53;
+	
+}
+
+.logo{
+	color:#fff;
+	font-size: 28px;
+	line-height: 60px;
+	padding-left: 389px;
+	float: left;
+}
+
+.menu{
+	padding-left:950px;
+	
+}
+
+.menu li{
+	color:#fff;
+	line-height: 60px;
+	margin-right: 40px;
+	font-size: 16px;
+	display: inline;
+}
+
+.main{
+	width: 100%;
+	height: calc(100% - 60px);
+	background:url("../img/paren.png") no-repeat 90% 100% /auto 85%, url("../img/fon.jpg") center/cover no-repeat;	
+}
+
+.title__container1{
+	float: left;
+	margin: 432px 0 0 404px;
+	color: #2c384a;
+	text-align: center;
+}
+
+.title__container1 h1{
+	font-size: 60px;
+	font-weight: 700;
+}
+
+.title__container1 h4{
+	margin-top: 40px;
+	font-size: 22px;
+	color:#79818d;
+}
+
+.title__container1 input{
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color: #79818d;
+	font-size: 13px;
+	padding:0 16px ;
+	margin: 58px 14px 0 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title__contrainer2{
+	width: 100%;
+	height: 716px;
+	background:url("../img/fon2.png")center/cover no-repeat;
+	float: left;
+}
+
+.title__contrainer2 h3{
+	margin-left: 896px;
+	padding-top: 108px;
+	font-size: 25px;
+	font-weight: 700;
+	color: #263244;
+}
+
+.cherta{
+	margin:30px 0 0 925px ;
+}
+
+.paren2{
+	margin:59px 0 0 860px ;
+}
+
+.title__contrainer2 p{
+	text-align: left;
+	margin: 23px 0 41px 596px;
+	color: #3f495a;
+}
+
+.title__contrainer2 input{
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	border-radius: 5px;
+	color: #79818d;
+	font-size: 13px;
+	padding:9px 11px 10px 32px ;
+	margin: 36px 0 0 886px;
+	background: url("../img/icopka.png") no-repeat 11px 8px;
+}
+
+
+
+
+
+
+
+
+
+
+.title__contrainer3{
+	width: 100%;
+	height: 522px;
+	background: url("../img/fon3.jpg") center/cover no-repeat;
+	float: left;
+}
+
+.title__contrainer3 h3{
+	margin-left: 874px;
+	margin-top: 108px;
+	font-size: 25px;
+	font-weight: 700;
+	color: #263244;
+	float: left;
+}
+
+.cherta2{
+	margin:31px 0 0 925px;
+	float: left;
+}
+
+.item{
+	margin:275px 0 0 495px;
+}
+.strelki-icon{
+	margin: 0 0 0 238px;
+}
+.raketa-icon{
+  	margin-left: 246px;	
+}
+.gromofon-icon{
+	margin-left: 244px;
+}
+
+.texts .veb-dizain{
+	margin: 10px 0 0 475px;
+	font-size: 16px;
+ 	color:#cf7600;
+	font-weight: 700;
+	
+}
+
+.texts p{
+	text-align: center;
+	margin: 17px 0 0 416px;
+	float: left;
+}
+
+.texts .razrabotka{
+	padding: ;
+	margin:0 0 0 789px;
+	font-size: 16px;
+ 	color:#cf7600;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
