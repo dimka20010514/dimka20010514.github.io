@@ -125,13 +125,72 @@ body{
 }
 
 
+.conteiner3{
+	width: 100%;
+	height: 521px;
+	background:url("../img/fon3.jpg")
+}
+
+.chto-ymeu h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 107px 0 31px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.icon{
+	
+}
+
+.ved-dizain{
+	text-align: center;
+	float: left;
+	padding: 40px 0 0 400px;
+}
+
+.ved-dizain h4{
+	padding: 36px 0 14px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
+
+.razrabotka{
+	text-align: center;
+	float: left;
+	padding: 40px 0 0 83px;
+}
+
+.razrabotka h4{
+	padding: 32px 0 13px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
 
 
+.ceo {
+	text-align: center;
+	float: left;
+	padding: 39px 0 0 84px;
+}
 
+.ceo h4{
+	padding: 26px 0 15px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
 
+.marketing{
+	text-align: center;
+	float: left;
+	padding: 36px 0 0 84px;
+}
 
-
-
+.marketing h4{
+	padding: 28px 0 17px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
 
 
 
