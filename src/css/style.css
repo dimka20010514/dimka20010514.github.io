@@ -1,0 +1,655 @@
+body{
+	font-family: Arial, "sans-serif";
+}
+
+.head{
+	width: 100%;
+	height: 61px;
+	background-color: #3c4e67;
+}
+
+.logo{
+	font-size: 25px;
+	color: #fff;
+	padding:19px 0 0 388px;
+	float: left;
+}
+
+.nav{
+	padding-left: 430px;
+	float: left;
+}
+.nav li{
+	color:#fff;
+	line-height: 60px;
+	margin-right: 38px;
+	font-size: 16px;
+	display: inline;
+	text-transform: uppercase;
+	float: left
+}
+
+
+
+
+
+.conteiner1{
+	width: 100%;
+	height: 1015px;
+	background:url("../img/boy1.png") no-repeat 90% 100% /auto 85% ,url("../img/fon1.jpg") center/cover no-repeat;
+}
+
+.text1{
+	float: left;
+	text-align: center;
+	padding: 432px 0 0 404px;
+}
+
+.text1 h1{
+	font-size: 60px;
+	margin: 0 0 30px 0;
+	color:#2c384a;
+	font-weight: 700;
+}
+
+.text1 p{
+	font-size: 22px;
+	color: #79818d;
+	margin-bottom: 55px;
+}
+
+.text1 input{
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color: #79818d;
+	font-size: 13px;
+	padding:0 16px ;
+	margin: 0 14px 0 14px;
+}
+
+
+
+
+
+
+
+
+
+
+.conteiner2{
+	width: 100%;
+	height: 716px;
+	background-image: url("../img/fon2.png");
+}
+
+.obo-mne h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 108px 0 31px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #384354;
+}
+
+.cherta{
+	text-align: center;
+	padding: 0 0 60px 0;
+}
+
+.boy2{
+	text-align: center;
+	padding: 0 0 22px 0;
+}
+
+
+.text2 p{
+	padding: 0 0 42px 596px;
+	color: #384354;
+}
+
+.download{
+	text-align: center;
+}
+
+.text2 input{
+	height: 40px;
+	border: 2px solid #6d7682;
+	border-radius: 5px;
+	color: #79818d;
+	font-size: 13px;
+	padding:0 10px 0 31px ;
+	margin: 0 14px 0 14px;
+	background: url("../img/icon-download.png") no-repeat 10px 10px;
+}
+
+
+.conteiner3{
+	width: 100%;
+	height: 521px;
+	background:url("../img/fon3.jpg")
+}
+
+.chto-ymeu h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 107px 0 31px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #384354;
+}
+
+.icon{
+	
+}
+
+.ved-dizain{
+	text-align: center;
+	float: left;
+	padding: 40px 0 0 400px;
+}
+
+.ved-dizain h4{
+	padding: 36px 0 14px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
+
+.razrabotka{
+	text-align: center;
+	float: left;
+	padding: 40px 0 0 83px;
+}
+
+.razrabotka h4{
+	padding: 32px 0 13px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
+
+
+.ceo {
+	text-align: center;
+	float: left;
+	padding: 39px 0 0 70px;
+}
+
+.ceo h4{
+	padding: 26px 0 15px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
+
+.marketing{
+	text-align: center;
+	float: left;
+	padding: 36px 0 0 84px;
+}
+
+.marketing h4{
+	padding: 28px 0 17px 0;
+	color:#cf7600;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+.conteiner4{
+	width: 100%;
+	height: 1200px;
+	background: url("../img/fon4.png") center/cover no-repeat;
+}
+
+.case{
+	text-align: center;
+}
+
+.case h2{
+	text-align: center;
+	font-size: 30px;
+	padding: 104px 0 30px 0;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #384354;
+}
+
+.case p{
+	padding: 36px 0 31px 0;
+	color: #384354;
+}
+
+.img-case{
+	text-align: center;
+	height: 590px;
+	background: url("../img/img-case.png") no-repeat;
+}
+
+.text-4-1{
+	margin:30px 83px 0 388px ;
+	float: left;
+}
+
+.text-4-1 h2{
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #384354;
+	padding: 0 0 14px 0;
+}
+
+.text-4-1-1{
+	padding: 14px 0 0 0;
+}
+
+.text-4-1-1 input{
+	margin: 22px 0 0 0;
+	height: 44px;
+	background-color:#00bdad;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 17px;
+	padding: 0 43px 0 42px;
+	
+}
+
+.text-4-2 h2{
+	font-size: 23px;
+	color: #384354;
+	padding: 30px 0 10px 0;
+}
+
+.text-4-2 p{
+	color:#3f495a;
+	font-size: 16px;
+	line-height: 28px;
+}
+
+
+
+
+
+
+
+
+
+.conteiner5{
+	text-align: center;
+	width: 100%;
+	height: 720px;
+	background: url("../img/fon4.png") center/ cover no-repeat;
+}
+
+.conteiner5 h2{
+	font-size: 32px;
+	font-weight: 700;
+	color: #1c2534;
+	margin: 0 0 54px 0;
+}
+
+.conteiner5 select{
+	width: 891px;
+	height: 57px;
+	background-color: #eee;
+	padding: 0 0 0 23px;
+	border: 1px solid #fff;
+	color:#737373;
+}
+
+
+.tip-sait h4{
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-right: 765px;
+	margin-bottom: 22px;
+}
+
+.dizain h4{
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin: 44px 795px 22px 0  ;
+}
+
+.adaptivnost h4{
+	font-size: 22px;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-right: 703px;
+	margin-bottom: 22px;
+	margin: 44px 703px 22px 0;
+}
+
+.cherta-niz{
+	margin:37px 0 0 487px;
+	width: 891px;
+	border-bottom: 2px solid #d1d1d1;
+}
+
+.sroki-stoimost{
+	text-align: left;
+}
+
+.sroki h4{
+	font-size: 18px;
+	font-weight: 700;
+	padding: 23px 0px 23px 5px; 
+}
+.sroki span{
+	font-size: 25px;
+	font-weight: 700;
+	padding: 0 0 0 820px;
+	
+}
+
+.stoimost h4{
+	font-size: 18px;
+	font-weight: 700;
+	padding:0 0px 0 5px;
+}
+
+.stoimost span{
+	font-size: 25px;
+	font-weight: 700;
+	padding: 0 0 0 780px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contauner6{
+	width: 100%;
+	height: 570px;
+	background: url("../img/fon6.png") center/cover no-repeat;
+	text-align: center;
+}
+
+.nemnogo-statistic h2{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight:600;
+	color:#323e4f;
+	padding: 103px 0 32px 0;
+}
+
+.icon2{
+	text-align:left;
+
+}
+
+.smail{
+	text-align: center;
+	float: left;
+	padding: 35px 0 0 400px;
+}
+
+.smail h4{
+	font-size: 40px;
+	padding: 31px 0 16px 0;
+	color:#323e4f;
+	font-weight: 700;
+}
+
+.strelki-orange{
+	text-align: center;
+	float: left;
+	padding: 35px 0 0 155px;
+}
+
+.strelki-orange h4{
+	font-size: 40px;
+	padding: 36px 0 16px 0;
+	color:#323e4f;
+	font-weight: 700;
+}
+
+
+.galka {
+	text-align: center;
+	float: left;
+	padding: 35px 0 0 151px;
+}
+
+.galka h4{
+	font-size: 40px;
+	padding: 34px 0 17px 0;
+	color:#323e4f;
+	font-weight: 700;
+}
+
+.kuboc{
+	text-align: center;
+	float: left;
+	padding: 36px 0 0 150px;
+}
+
+.kuboc h4{
+	font-size: 40px;
+	padding: 27px 0 17px 0;
+	color:#323e4f;
+	font-weight: 700;
+}
+
+.contauner6 p{
+	text-transform: uppercase;
+	color: #323e4f;
+	font-weight: 700;
+}
+
+
+.conteiner7{
+	text-align: center;
+	width: 100%;
+	height: 591px;
+	background: url("../img/fon7.png") center/cover no-repeat;
+}
+
+.otzivi h2{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #384354;
+	padding: 105px 0 0 0;
+	margin: 0 0 34px 0;
+}
+
+.boy3{
+	margin: 0 0 35px 0;
+}
+
+.text3{
+	line-height: 20px;
+	margin: 0 0 35px 0;
+}
+
+.text3-1{
+	margin: 0 0 35px 0;
+}
+
+.icon-krug{
+  margin: 50px 0 91px 0;
+}
+
+.icon-seriy{
+	margin: 0 0 0 14px;
+}
+
+
+
+
+
+
+.container8{
+	text-align: center;
+	width: 100%;
+	height: 808px;
+	background: url("../img/fon8.png") center/cover no-repeat;
+}
+
+.container8 p{
+	color: #fff;
+}
+
+
+.my-contact h2{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	padding: 105px 0 32px 0;
+}
+
+.text4{
+	color: #fff;
+	padding: 32px 0 0 0;
+}
+
+
+.geo-local{
+	line-height: 22px;
+	float: left;
+	margin: 45px 0 0 600px;
+}
+
+.geo-local p{
+	margin-top: 10px;
+}
+
+.icon-email{
+ float: left;
+	margin: 48px 0 0 118px;	
+}
+
+.icon-email p{
+	margin-top: 14px;
+}
+
+.icon-truba{
+	float: left;
+	margin: 48px 0 0 126px;
+	
+}
+
+.icon-truba p{
+	margin-top: 14px;
+}
+
+.soobchenie h4{
+	clear: both;
+	font-size: 25px;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 42px 0 0 0;
+}
+
+
+.name-email{
+	margin: 46px 0 0 0 ;
+}
+
+.name{
+	width:352px; 
+	height:34px;
+	padding: 13px;
+	margin: 0 29px 0 0;
+	background-color: rgba(210, 213, 219,0.7);
+}
+
+.email{
+	width:352px; 
+	height:34px;
+	padding: 13px;
+	margin: 0 18px 0 0;
+	background-color: rgba(210, 213, 219,0.7);
+}
+
+
+.textarea input{
+	width: 736px;
+	height: 94px;
+	margin: 14px 21px 0 0;
+	padding: 9px 0 0 10px;
+	background-color: rgba(210, 213, 219,0.7);
+}
+
+
+
+.otpravit input{
+	border: 2px solid #fff;
+	background: none;
+	color: #fff;
+	border-radius: 5px;
+	height: 46px;
+	padding:  15px 17px;
+	margin: 28px 30px 0 0;
+}
+
+
+
+.conteiner9{
+	text-align: center;
+	width: 100%;
+	height: 350px;
+	background: url("../img/karta.png") center/cover no-repeat;
+}
+
+.imhere{
+	width: 135px;
+	height: 48px;
+	margin: 143px 63px 0 0;
+	font-weight: 700;
+}
+
+
+.footer{
+	width: 100%;
+	height: 96px;
+	background-color: #354051;
+	text-align: center;
+	padding: 40px 30px 0 0;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
